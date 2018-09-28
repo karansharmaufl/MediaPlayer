@@ -1,0 +1,14 @@
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\MediaPlayer.dll.config
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\MediaPlayer.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\MediaPlayer.pdb
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\Newtonsoft.Json.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Net.Http.Formatting.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Web.Http.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Web.Http.WebHost.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\Newtonsoft.Json.xml
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Net.Http.Formatting.xml
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Web.Http.xml
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\bin\System.Web.Http.WebHost.xml
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.dll
+\\file\users\karans\Desktop\MvcTutorial\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
